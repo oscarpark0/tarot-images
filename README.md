@@ -1,1 +1,1 @@
-# tarot-images
+# Tarot Card JPGs
